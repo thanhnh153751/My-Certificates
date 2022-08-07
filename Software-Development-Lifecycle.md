@@ -1,2 +1,2 @@
-*this [link](https://www.coursera.org/account/accomplishments/specialization/certificate/G8XKQNCRW82G) Certificate:
- *https://www.coursera.org/account/accomplishments/specialization/certificate/G8XKQNCRW82G
+* this [link](https://www.coursera.org/account/accomplishments/specialization/certificate/G8XKQNCRW82G) Certificate:
+ * https://www.coursera.org/account/accomplishments/specialization/certificate/G8XKQNCRW82G
